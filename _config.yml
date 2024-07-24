@@ -1,8 +1,8 @@
 title: "Ali El Masri's Portfolio"
 description: "Welcome to my personal portfolio website."
 theme: jekyll-theme-cayman
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://your-username.github.io" # the base hostname & protocol for your site
+baseurl: "/Portfolio" 
+url: "https://elmasri-ali.github.io" 
 github_username: elmasri-ali
 
 # Optional settings
