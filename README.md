@@ -30,32 +30,6 @@ Bachelor of Arts in Hospitality Management & Administration (Graduated: January 
 
 Aspiring data scientist currently pursuing a Master's in Data Science at Bellevue University with a strong background in hospitality management. Seeking to leverage analytical skills, machine learning, technical proficiency in Python, R, SQL, and a proven track record of leadership and operational excellence to solve complex data-driven problems.
 
-## Professional Experience
-
-**Assistant Operation Manager, Moxy Times Square, New York**  
-June 2019 - August 2023  
-- Oversaw front office and reservation teams ensuring exceptional guest service for a 612-room hotel.
-- Utilized guest feedback and performance data to drive service enhancements and operational decisions.
-- Developed and managed associate incentive programs aligning team efforts with organizational goals.
-- Played a key role in resource management, optimizing room inventory and planning to achieve operational excellence.
-
-**Front Office Supervisor, Aloft, Brooklyn, New York**  
-September 2018 - June 2019  
-- Led front desk operations ensuring efficient guest check-in/out processes and adherence to company policies.
-- Managed staff scheduling, training, and performance evaluation, fostering a culture of excellence and continuous improvement.
-- Implemented financial transaction procedures safeguarding guest.
-
-**Assistant Front Office Manager & Housekeeping Manager, Sheraton Columbia Downtown, South Carolina**  
-October 2017 - September 2018  
-- Managed housekeeping operations overseeing a team to maintain high cleanliness standards across guestrooms and public spaces.
-- Instituted operational protocols and training programs improving service delivery and operational efficiency.
-- Conducted regular inspections to ensure adherence to brand standards and guest satisfaction.
-
-**Front Office Manager, Golden Tulip Deville Hotel, Beirut**  
-April 2012 - October 2017  
-- Spearheaded guest service improvements and operational efficiency through profit-driven adjustments to room rates and inventory management.
-- Led cross-functional teams across front desk, concierge, housekeeping, and engineering departments ensuring high service standards and guest satisfaction.
-- Implemented training programs enhancing staff proficiency in hotel software and customer service contributing to streamlined operation and crisis management during high-profile events.
 
 ## Key Competencies Developed
 
