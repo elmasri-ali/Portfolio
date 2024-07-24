@@ -1,12 +1,35 @@
 title: "Ali El Masri's Portfolio"
 description: "Welcome to my personal portfolio website."
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes"
 baseurl: "/Portfolio" 
 url: "https://elmasri-ali.github.io" 
 github_username: elmasri-ali
 
 # Optional settings
-show_downloads: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Minimal Mistakes specific settings
+author:
+  name: "Ali El Masri"
+  avatar: "profile.jpg"
+  bio: "Aspiring Data Scientist specializing in machine learning and data analysis."
+  location: "New York, USA"
+  email: "almasri.ali92@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "github"
+      url: "https://github.com/elmasri-ali"
+    - label: "LinkedIn"
+      icon: "linkedin"
+      url: "https://www.linkedin.com/in/your-profile"
+
+# Social media settings
+social:
+  - title: "Follow me on GitHub"
+    url: "https://github.com/elmasri-ali"
+    icon: "github"
+  - title: "Connect on LinkedIn"
+    url: "https://www.linkedin.com/in/your-profile"
+    icon: "linkedin"
