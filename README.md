@@ -2,11 +2,17 @@
 
 ![Ali El Masri](profile.png)
 
-As data scientists, we make sense of data to tell a story. Similarly, my story is nothing more than the small decisions and choices I have made and the people I have encountered. My first summer job in high school was as an assistant and sailor with yachts at a marina in Lebanon. During my summer job, I was able to meet different people with different backgrounds and engage in deep and stimulating conversations; this excitement of meeting and engaging with other people shaped my career path.
+Hey there! I'm Ali El Masri, a data scientist with a zest for machine learning and a heart full of adventure! My journey has been a thrilling ride, much like my love for exploring the Arctic with my wife, where the winter ambiance is simply magical, and skiing through pristine snow is an exhilarating experience.
 
-My name is Ali El Masri and I am an aspiring data scientist focusing on machine learning. I currently have a B.A. in Hospitality Management and extensive experience in the lodging industry. My journey into the hotels and hospitality industry was driven by my passion for traveling and connecting with people from different backgrounds and cultures. My journey in the hospitality industry has been very fulfilling, and I have had the pleasure of working with professionals and connecting with many coworkers who have all been of great influence on one another. I have had the pleasure of meeting numerous guests throughout the years, and although we have gone our separate ways, a long-lasting memory was always shared.
+My story began with small choices and serendipitous encounters. My first high school summer job as an assistant and sailor at a marina in Lebanon was a gateway to fascinating conversations and diverse friendships that sparked my passion for connecting with people.
 
-After a decade of working in the industry in different cities, I grew an interest in the revenue management field within the industry due to its intellectual stimulation, which thus led me to the field of data science. The intellectual challenges and brain-stimulating problems led me to pursue my Master of Science in Data Science from Bellevue University. During my two-year program, I was able to learn to apply techniques in ways I did not even know existed. I might have reached the end of my academic journey, but I know that my learning journey has just begun in this ever-evolving industry, and this is what excites me the most. I strive to gain experience and deepen my knowledge with every new project. By combining my experience in hospitality with my data science techniques and curiosity of the unknown, I aim to solve data-driven problems focusing on the hospitality and airline industry through machine and deep learning and look to innovate and find new ways to help organizations achieve their revenue and guest satisfaction goals through data.
+With a B.A. in Hospitality Management and a rich background in the lodging industry, my career in hospitality was driven by my love for travel and meeting people from all walks of life. Each encounter left an indelible mark, creating lasting memories and shaping my professional path.
+
+After a decade in hospitality across various cities, my curiosity led me to revenue management and eventually to the intellectually stimulating world of data science. I pursued a Master of Science in Data Science from Bellevue University, diving into the depths of machine learning and discovering new techniques that fueled my excitement.
+
+As my academic journey concluded, I realized my learning had just begun. Every new project offers a chance to deepen my knowledge and solve data-driven challenges, particularly in the hospitality and airline industries. By blending my hospitality experience with advanced data science skills, I aim to innovate and help organizations achieve their revenue and guest satisfaction goals.
+
+So, whether I'm analyzing data, exploring the breathtaking Arctic with my wife, chasing the Northern Lights, or indulging in the vibrant world of Japanese anime, I'm always on the lookout for new adventures and opportunities to grow!
 
 # Resume
 
