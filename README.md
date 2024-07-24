@@ -105,7 +105,7 @@ This project focuses on analyzing player behavior and performance in DotA 2 usin
 [GitHub Repository](https://github.com/elmasri-ali/Dota2-performance-analysis)
 
 ## Dota2 Data Extracting Through API and Web Scrapping 
-<img src="dota2.jpg" alt="Description of image" width="300"/>
+<img src="dota2.png" alt="Description of image" width="300"/>
 
 This project focuses on analyzing DotA 2 match data to derive meaningful insights related to gaming performance. The analysis includes data extraction, cleaning, and visualization of match data from various sources such as CSV files, JSON files, API calls, and web scraping.
 
