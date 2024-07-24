@@ -10,3 +10,4 @@ show_downloads:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-fontawesome
