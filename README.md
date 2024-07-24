@@ -13,6 +13,8 @@ After a decade in hospitality across various cities, my curiosity led me to reve
 As my academic journey concluded, I realized my learning had just begun. Every new project offers a chance to deepen my knowledge and solve data-driven challenges, particularly in the hospitality and airline industries. By blending my hospitality experience with advanced data science skills, I aim to innovate and help organizations achieve their revenue and guest satisfaction goals.
 
 So, whether I'm analyzing data, exploring the breathtaking Arctic with my wife, chasing the Northern Lights, or indulging in the vibrant world of Japanese anime, I'm always on the lookout for new adventures and opportunities to grow!
+<img src="nl.jpg" alt="Description of image" width="300"/>
+
 
 ## Places I've Been
 
