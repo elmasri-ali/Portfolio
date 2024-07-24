@@ -1,4 +1,4 @@
-# Ali El Masri's Portfolio
+# Data Scientist
 
 ![Ali El Masri](profile.png)
 
