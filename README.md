@@ -1,8 +1,15 @@
-# Data Scientist
+
+## Education
+
+**Bellevue University, Bellevue, NE**  
+Master of Science in Data Science (Graduation: September 2024)  
+Relevant Coursework: Data Exploration and Analysis, Predictive Analytics, Data Mining, Data Presentation and Visualization, Big Data
+
+**American University of Culture and Education, Beirut**  # Data Scientist
 
 ![Ali El Masri](profile.png)
 
-Hey there! :wave: I'm Ali El Masri :smiley:, a data scientist :test_tube: with a zest for machine learning and a heart full of adventure! :skier: My journey has been a thrilling ride, much like my love for exploring the Arctic with my wife, where the winter ambiance is simply magical, and skiing through pristine snow is an exhilarating experience.
+Hey there! 👋 I'm Ali El Masri 😃, a data scientist 🧪 with a zest for machine learning and a heart full of adventure!⛷️My journey has been a thrilling ride, much like my love for exploring the Arctic with my wife, where the winter ambiance is simply magical, and skiing through pristine snow is an exhilarating experience.
 
 My story began with small choices and serendipitous encounters. My first high school summer job as an assistant and sailor at a marina in Lebanon was a gateway to fascinating conversations and diverse friendships that sparked my passion for connecting with people.
 
@@ -33,7 +40,7 @@ So, whether I'm analyzing data, exploring the breathtaking Arctic with my wife, 
 - **Mexico:** Enjoying the rich culture and warm beaches. :mexico:
 
 ### Europe & West Asia
-- **Syria:** A journey through history and culture. :syria:
+- **Syria:** A journey through history and culture. 🇸🇾
 - **Cyprus:** Relaxing on the beautiful Mediterranean island. :Cyprus:
 - **Bulgaria:** Discovering the charm of Eastern Europe. :bulgaria:
 - **Turkey:** Experiencing the unique blend of East and West. :tr:
@@ -57,13 +64,6 @@ So, whether I'm analyzing data, exploring the breathtaking Arctic with my wife, 
 
 # Resume
 
-## Education
-
-**Bellevue University, Bellevue, NE**  
-Master of Science in Data Science (Graduation: September 2024)  
-Relevant Coursework: Data Exploration and Analysis, Predictive Analytics, Data Mining, Data Presentation and Visualization, Big Data
-
-**American University of Culture and Education, Beirut**  
 Bachelor of Arts in Hospitality Management & Administration (Graduated: January 2017)
 
 ## Skills
@@ -133,6 +133,6 @@ This project focuses on predicting hotel booking cancellations using various dat
 
 # Contact
 
-- - **Email**: [<i class="fas fa-envelope"></i> almasri.ali92@gmail.com](mailto:almasri.ali92@gmail.com)
+- **Email**: [<i class="fas fa-envelope"></i> almasri.ali92@gmail.com](mailto:almasri.ali92@gmail.com)
 - **LinkedIn**: [<i class="fab fa-linkedin"></i> Linkedin](https://www.linkedin.com/in/ali-masri-03347294/)
 - **GitHub**: [<i class="fab fa-github"></i> GitHub Profile](https://github.com/elmasri-ali)
