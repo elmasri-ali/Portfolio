@@ -20,7 +20,7 @@ So, whether I'm analyzing data, exploring the breathtaking Arctic, chasing the N
 ## Places I've Been
 
 ### Home and Native Country
-- **Lebanon:** My native country, where I had my first job at a marina. :lebanon:
+- **Lebanon:** My native country. :lebanon:
 - **America:** My home country, with countless adventures across the states. :us:
 
 ### North America
@@ -30,7 +30,7 @@ So, whether I'm analyzing data, exploring the breathtaking Arctic, chasing the N
 - **Canada:**
   - **Montreal:** Embracing the vibrant culture of this historic city. 🍁
   - **Calgary and Banff:** Marveling at the stunning landscapes of the Rockies. ⛰️
-- **Mexico:** Enjoying the rich culture and warm beaches. :mexico:
+- **Mexico:** Enjoying the rich culture and warm beaches. 🇲🇽
 
 ### Europe & West Asia
 - **Syria:** A journey through history and culture. 🇸🇾
