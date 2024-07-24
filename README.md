@@ -1,6 +1,6 @@
 # Ali El Masri's Portfolio
 
-![Ali El Masri](profile.jpg)
+![Ali El Masri](profile.png)
 
 As data scientists, we make sense of data to tell a story. Similarly, my story is nothing more than the small decisions and choices I have made and the people I have encountered. My first summer job in high school was as an assistant and sailor with yachts at a marina in Lebanon. During my summer job, I was able to meet different people with different backgrounds and engage in deep and stimulating conversations; this excitement of meeting and engaging with other people shaped my career path.
 
