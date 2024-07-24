@@ -1,6 +1,6 @@
 title: "Ali El Masri's Portfolio"
 description: "Welcome to my personal portfolio website."
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "theme: jekyll-theme-cayman"
 baseurl: "/Portfolio" 
 url: "https://elmasri-ali.github.io" 
 github_username: elmasri-ali
