@@ -2,7 +2,7 @@
 
 ![Ali El Masri](profile.png)
 
-Hey there! :wave: I'm Ali El Masri, a data scientist with a zest for machine learning and a heart full of adventure! My journey has been a thrilling ride, much like my love for exploring the Arctic with my wife, where the winter ambiance is simply magical, and skiing through pristine snow is an exhilarating experience.
+Hey there! :wave: I'm Ali El Masri :smiley:, a data scientist :test_tube: with a zest for machine learning and a heart full of adventure! :skier: My journey has been a thrilling ride, much like my love for exploring the Arctic with my wife, where the winter ambiance is simply magical, and skiing through pristine snow is an exhilarating experience.
 
 My story began with small choices and serendipitous encounters. My first high school summer job as an assistant and sailor at a marina in Lebanon was a gateway to fascinating conversations and diverse friendships that sparked my passion for connecting with people.
 
@@ -17,8 +17,8 @@ So, whether I'm analyzing data, exploring the breathtaking Arctic with my wife, 
 ## Places I've Been
 
 ### Home and Native Country
-- **Lebanon:** My native country, where I had my first job at a marina. 🇱🇧
-- **America:** My home country, with countless adventures across the states. 🇺🇸
+- **Lebanon:** My native country, where I had my first job at a marina. :lebanon:
+- **America:** My home country, with countless adventures across the states. :us:
 
 ### North America
 - **United States:**
@@ -27,27 +27,29 @@ So, whether I'm analyzing data, exploring the breathtaking Arctic with my wife, 
 - **Canada:**
   - **Montreal:** Embracing the vibrant culture of this historic city. 🍁
   - **Calgary and Banff:** Marveling at the stunning landscapes of the Rockies. ⛰️
-- **Mexico:** Enjoying the rich culture and warm beaches. 🇲🇽
+- **Mexico:** Enjoying the rich culture and warm beaches. :mexico:
 
 ### Europe & West Asia
-- **Syria:** A journey through history and culture. 🇸🇾
-- **Cyprus:** Relaxing on the beautiful Mediterranean island. 🇨🇾
-- **Bulgaria:** Discovering the charm of Eastern Europe. 🇧🇬
-- **Turkey:** Experiencing the unique blend of East and West. 🇹🇷
-- **Iceland:** Chasing the Northern Lights and exploring otherworldly landscapes. 🇮🇸
-- **Finland:** Enjoying the winter wonderland and its serene beauty. 🇫🇮
-- **Norway:** Skiing and admiring the breathtaking fjords. 🇳🇴
-- **Ireland:** Soaking in the lush, green landscapes and vibrant culture. 🇮🇪
-- **Poland:** Exploring the rich history and diverse culture. 🇵🇱
+- **Syria:** A journey through history and culture. :syria:
+- **Cyprus:** Relaxing on the beautiful Mediterranean island. :Cyprus:
+- **Bulgaria:** Discovering the charm of Eastern Europe. :bulgaria:
+- **Turkey:** Experiencing the unique blend of East and West. :tr:
+- **Iceland:** Chasing the Northern Lights and exploring otherworldly landscapes. :iceland:
+- **Finland:** Enjoying the winter wonderland and its serene beauty. :finland:
+- **Norway:** Skiing and admiring the breathtaking fjords. :norway:
+- **Ireland:** Soaking in the lush, green landscapes and vibrant culture. :ireland:
+- **Poland:** Exploring the rich history and diverse culture. :poland:
+<img src="ice.jpg" alt="Description of image" width="300"/>
 
 ### Asia
-- **Maldives:** Relaxing in the stunning tropical paradise. 🇲🇻
-- **Japan:** Immersing in the rich culture and indulging in the vibrant world of anime. 🇯🇵
+- **Maldives:** Relaxing in the stunning tropical paradise. :maldives:
+- **Japan:** Immersing in the rich culture and indulging in the vibrant world of anime. :jp:
+<img src="kyoto.jpg" alt="Description of image" width="300"/>  
 
 ### Caribbean
-- **Saint Lucia:** Enjoying the tropical beauty and vibrant culture. 🇱🇨
-- **Jamaica:** Embracing the lively music and warm beaches. 🇯🇲
-- **Dominican Republic:** Relaxing in the tropical paradise. 🇩🇴
+- **Saint Lucia:** Enjoying the tropical beauty and vibrant culture. :st_lucia:
+- **Jamaica:** Embracing the lively music and warm beaches. :jamaica:
+- **Dominican Republic:** Relaxing in the tropical paradise. :dominican_republic:
 
 
 # Resume
@@ -99,7 +101,8 @@ This project focuses on analyzing player behavior and performance in DotA 2 usin
 
 [GitHub Repository](https://github.com/elmasri-ali/Dota2-performance-analysis)
 
-## Dota2 Data Extracting Through API and Web Scrapping
+## Dota2 Data Extracting Through API and Web Scrapping 
+<img src="dota2.jpg" alt="Description of image" width="300"/>
 
 This project focuses on analyzing DotA 2 match data to derive meaningful insights related to gaming performance. The analysis includes data extraction, cleaning, and visualization of match data from various sources such as CSV files, JSON files, API calls, and web scraping.
 
