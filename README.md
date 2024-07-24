@@ -41,7 +41,7 @@ So, whether I'm analyzing data, exploring the breathtaking Arctic with my wife, 
 
 ### Europe & West Asia
 - **Syria:** A journey through history and culture. 🇸🇾
-- **Cyprus:** Relaxing on the beautiful Mediterranean island. :Cyprus:
+- **Cyprus:** Relaxing on the beautiful Mediterranean island. :cyprus:
 - **Bulgaria:** Discovering the charm of Eastern Europe. :bulgaria:
 - **Turkey:** Experiencing the unique blend of East and West. :tr:
 - **Iceland:** Chasing the Northern Lights and exploring otherworldly landscapes. :iceland:
