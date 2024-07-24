@@ -112,5 +112,5 @@ This project focuses on predicting hotel booking cancellations using various dat
 # Contact
 
 - **Email**: (mailto:almasri.ali92@gmail.com)
-- **LinkedIn**: (linkedin.com/in/ali-masri-03347294)
+- **LinkedIn**: (https://www.linkedin.com/in/ali-masri-03347294/)
 - **GitHub**: (https://github.com/elmasri-ali)
