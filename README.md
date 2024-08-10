@@ -1,7 +1,14 @@
+# Ali El Masri
+
+[About](#about) | [Projects](#projects) | [Contact](#contact)
+
+![Ali El Masri](profile.png)
+
 # Data Scientist
 
 ![Ali El Masri](profile.png)
 
+## About
 Hey there! 👋 I'm Ali El Masri 😃 a data scientist 🧪 with a zest for machine learning and a heart full of adventure!⛷️My journey has been a thrilling ride, much like my love for exploring the Arctic with my wife, where the winter ambiance is simply magical, and skiing through pristine snow is an exhilarating experience.
 
 My story began with small choices and serendipitous encounters. My first high school summer job as an assistant and sailor at a marina in Lebanon was a gateway to fascinating conversations and diverse friendships that sparked my passion for connecting with people.
@@ -124,7 +131,7 @@ Aspiring data scientist currently pursuing a Master's in Data Science at Bellevu
 - Training certificate in Management and Team Building
 - Training certificate in Manager Essentials (Performance Management)
 
-# Academic Projects
+## Projects
 
 ## Dota2 Performance Analysis
 
@@ -147,6 +154,8 @@ This project involves developing a classification model to predict the probabili
 
 This project investigates the impact of higher education and professional certificates on employment and salary outcomes, particularly within the data science field. It uses datasets from Kaggle and the United States Census Bureau to analyze correlations between educational attainment and earnings. By employing both supervised and unsupervised learning methods, including random forest models and clustering techniques, the project aims to provide insights into the relative effectiveness of formal education versus certifications in enhancing employability and salary potential. The findings are intended to inform learners, educational institutions, and policymakers about the most beneficial educational investments for career advancement.
 
+[GitHub Repository](https://github.com/PavelM90/Pavel_Makarov_Ali_El_Masri_Data_Science_related_jobs_salary_analysis.git)
+
 ## Comparative Analysis of Hotel Reviews: A Case Study of New York Marriott Marquis and Competitors
 
 This study offers a detailed comparative analysis of hotel reviews for the New York Marriott Marquis and its top five competitors in New York City. By detecting languages, applying topic modeling, conducting sentiment analysis, and visualizing various metrics, we aim to derive actionable insights. The primary goal is to provide recommendations that can ultimately enhance customer satisfaction and maintain a competitive edge. Of importance, this dataset is not a definitive representation of the hotel’s operations but instead an example for educational purposes derived from a limited set of reviews from 2012.
@@ -159,7 +168,11 @@ This project involves five small data visualization tasks aimed at addressing ne
 
 This project focuses on predicting hotel booking cancellations using various data mining techniques. By analyzing booking data, the project aims to identify key factors that influence cancellations and develop predictive models to help hotels manage their reservations more effectively.
 
-# Contact
+## Real-Time Flight Delay Prediction Using Machine Learning
+In this project, I developed a robust machine learning model to predict flight delays in real time, focusing on flights departing from JFK Airport. Leveraging data from the Aviation Edge API and Open-Weather API, the model utilizes an ensemble approach combining XGBoost and Random Forest, providing accurate delay predictions by capturing complex patterns in both historical and real-time data. Despite challenges in data merging, the final model demonstrates strong performance with a Mean Absolute Error of just 1.72 minutes, making it a reliable tool for enhancing airline operations and customer satisfaction. The project also includes a dedicated real-time prediction pipeline, showcasing practical applications in a live environment.
+
+## Contact
+Hey there! 🚀 Always on the lookout for the next exciting challenge and eager to learn something new every day. If you're looking to chat about data, brainstorm cool ideas, or explore how we can work together to make magic happen, don’t be shy—reach out! Let's connect and see where our curiosity takes us.
 
 - **Email**: [<i class="fas fa-envelope"></i> almasri.ali92@gmail.com](mailto:almasri.ali92@gmail.com)
 - **LinkedIn**: [<i class="fab fa-linkedin"></i> Linkedin](https://www.linkedin.com/in/ali-masri-03347294/)
