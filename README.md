@@ -5,7 +5,7 @@
 ![Ali El Masri](profile.png)
 
 
-## Data-Scientist
+# Data-Scientist
 Hey there! 👋 I'm Ali El Masri 😃 a data scientist 🧪 with a zest for machine learning and a heart full of adventure!⛷️My journey has been a thrilling ride, much like my love for exploring the Arctic with my wife, where the winter ambiance is simply magical, and skiing through pristine snow is an exhilarating experience.
 
 My story began with small choices and serendipitous encounters. My first high school summer job as an assistant and sailor at a marina in Lebanon was a gateway to fascinating conversations and diverse friendships that sparked my passion for connecting with people.
@@ -24,8 +24,8 @@ So, whether I'm analyzing data, exploring the breathtaking Arctic, chasing the N
 ## Places I've Been
 
 ### Home and Native Country
-- **Lebanon:** My native country. :lebanon:
-- **America:** My home country, with countless adventures across the states. :us:
+- **Lebanon:** My native country. 🇱🇧
+- **America:** My home country, with countless adventures across the states. 🇺🇸
 
 ### North America
 - **United States:**
@@ -38,25 +38,25 @@ So, whether I'm analyzing data, exploring the breathtaking Arctic, chasing the N
 
 ### Europe & West Asia
 - **Syria:** A journey through history and culture. 🇸🇾
-- **Cyprus:** Relaxing on the beautiful Mediterranean island. :cyprus:
-- **Bulgaria:** Discovering the charm of Eastern Europe. :bulgaria:
-- **Turkey:** Experiencing the unique blend of East and West. :tr:
-- **Iceland:** Chasing the Northern Lights and exploring otherworldly landscapes. :iceland:
-- **Finland:** Enjoying the winter wonderland and its serene beauty. :finland:
-- **Norway:** Skiing and admiring the breathtaking fjords. :norway:
-- **Ireland:** Soaking in the lush, green landscapes and vibrant culture. :ireland:
-- **Poland:** Exploring the rich history and diverse culture. :poland:
+- **Cyprus:** Relaxing on the beautiful Mediterranean island. 🇨🇾
+- **Bulgaria:** Discovering the charm of Eastern Europe. 🇧🇬
+- **Turkey:** Experiencing the unique blend of East and West. 🇹🇷
+- **Iceland:** Chasing the Northern Lights and exploring otherworldly landscapes. 🇮🇸
+- **Finland:** Enjoying the winter wonderland and its serene beauty. 🇫🇮
+- **Norway:** Skiing and admiring the breathtaking fjords. 🇳🇴
+- **Ireland:** Soaking in the lush, green landscapes and vibrant culture. 🇮🇪
+- **Poland:** Exploring the rich history and diverse culture. 🇵🇱
 <img src="ice.jpg" alt="Description of image" width="300"/>
 
 ### Asia
-- **Maldives:** Relaxing in the stunning tropical paradise. :maldives:
-- **Japan:** Immersing in the rich culture and indulging in the vibrant world of anime. :jp:
+- **Maldives:** Relaxing in the stunning tropical paradise. 🇲🇻
+- **Japan:** Immersing in the rich culture and indulging in the vibrant world of anime. 🇯🇵
 <img src="kyoto.jpg" alt="Description of image" width="300"/>  
 
 ### Caribbean
-- **Saint Lucia:** Enjoying the tropical beauty and vibrant culture. :st_lucia:
-- **Jamaica:** Embracing the lively music and warm beaches. :jamaica:
-- **Dominican Republic:** Relaxing in the tropical paradise. :dominican_republic:
+- **Saint Lucia:** Enjoying the tropical beauty and vibrant culture. 🇱🇨
+- **Jamaica:** Embracing the lively music and warm beaches. 🇯🇲
+- **Dominican Republic:** Relaxing in the tropical paradise. 🇩🇴
 
 Now, let's switch gears from adventures and explorations to my professional journey! 🚀💼
 
@@ -128,7 +128,7 @@ Aspiring data scientist currently pursuing a Master's in Data Science at Bellevu
 - Training certificate in Management and Team Building
 - Training certificate in Manager Essentials (Performance Management)
 
-## Projects
+# Projects
 
 ## Dota2 Performance Analysis
 
@@ -168,7 +168,7 @@ This project focuses on predicting hotel booking cancellations using various dat
 ## Real-Time Flight Delay Prediction Using Machine Learning
 In this project, I developed a robust machine learning model to predict flight delays in real time, focusing on flights departing from JFK Airport. Leveraging data from the Aviation Edge API and Open-Weather API, the model utilizes an ensemble approach combining XGBoost and Random Forest, providing accurate delay predictions by capturing complex patterns in both historical and real-time data. Despite challenges in data merging, the final model demonstrates strong performance with a Mean Absolute Error of just 1.72 minutes, making it a reliable tool for enhancing airline operations and customer satisfaction. The project also includes a dedicated real-time prediction pipeline, showcasing practical applications in a live environment.
 
-## Contact
+# Contact
 Hey there! 🚀 Always on the lookout for the next exciting challenge and eager to learn something new every day. If you're looking to chat about data, brainstorm cool ideas, or explore how we can work together to make magic happen, don’t be shy—reach out! Let's connect and see where our curiosity takes us.
 
 - **Email**: [<i class="fas fa-envelope"></i> almasri.ali92@gmail.com](mailto:almasri.ali92@gmail.com)
