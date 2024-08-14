@@ -168,6 +168,7 @@ This project focuses on predicting hotel booking cancellations using various dat
 
 ## Real-Time Flight Delay Prediction Using Machine Learning
 In this project, I developed a robust machine learning model to predict flight delays in real time, focusing on flights departing from JFK Airport. Leveraging data from the Aviation Edge API and Open-Weather API, the model utilizes an ensemble approach combining XGBoost and Random Forest, providing accurate delay predictions by capturing complex patterns in both historical and real-time data. Despite challenges in data merging, the final model demonstrates strong performance with a Mean Absolute Error of just 1.72 minutes, making it a reliable tool for enhancing airline operations and customer satisfaction. The project also includes a dedicated real-time prediction pipeline, showcasing practical applications in a live environment.
+[GitHub Repository](https://github.com/elmasri-ali/Real-Time-Flight-Delay-Prediction.git) 
 
 # Contact
 Hey there! 🚀 Always on the lookout for the next exciting challenge and eager to learn something new every day. If you're looking to chat about data, brainstorm cool ideas, or explore how we can work together to make magic happen, don’t be shy—reach out! Let's connect and see where our curiosity takes us.
