@@ -165,6 +165,7 @@ This project involves five small data visualization tasks aimed at addressing ne
 ## Predictive Modeling for Hotel Booking Cancellations
 
 This project focuses on predicting hotel booking cancellations using various data mining techniques. By analyzing booking data, the project aims to identify key factors that influence cancellations and develop predictive models to help hotels manage their reservations more effectively.
+[GitHub Repository](https://github.com/elmasri-ali/Predictive-Modeling-for-Hotel-Booking-Cancelations-.git) 
 
 ## Real-Time Flight Delay Prediction Using Machine Learning
 In this project, I developed a robust machine learning model to predict flight delays in real time, focusing on flights departing from JFK Airport. Leveraging data from the Aviation Edge API and Open-Weather API, the model utilizes an ensemble approach combining XGBoost and Random Forest, providing accurate delay predictions by capturing complex patterns in both historical and real-time data. Despite challenges in data merging, the final model demonstrates strong performance with a Mean Absolute Error of just 1.72 minutes, making it a reliable tool for enhancing airline operations and customer satisfaction. The project also includes a dedicated real-time prediction pipeline, showcasing practical applications in a live environment.
