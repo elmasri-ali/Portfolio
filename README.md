@@ -147,6 +147,8 @@ This project focuses on analyzing DotA 2 match data to derive meaningful insight
 
 This project involves developing a classification model to predict the probability of death for climbers during Himalayan expeditions. Utilizing historical data from 1905 to 2020 sourced from Kaggle, the project analyzes various factors such as age, gender, experience, peak difficulty, and season of climb. The model aims to identify key determinants that increase the likelihood of fatal outcomes and uses this information to improve the safety planning of future expeditions. Through comprehensive data preprocessing, feature engineering, and the evaluation of multiple machine learning models, the project seeks to create a robust predictive tool for enhancing climber safety.
 
+[GitHub Repository](https://github.com/elmasri-ali/Death-Classification-Model-for-Himalayan-Expeditions.git)
+
 ## Impact of Higher Education and Professional Certificates on Employment and Salary Outcomes
 
 This project investigates the impact of higher education and professional certificates on employment and salary outcomes, particularly within the data science field. It uses datasets from Kaggle and the United States Census Bureau to analyze correlations between educational attainment and earnings. By employing both supervised and unsupervised learning methods, including random forest models and clustering techniques, the project aims to provide insights into the relative effectiveness of formal education versus certifications in enhancing employability and salary potential. The findings are intended to inform learners, educational institutions, and policymakers about the most beneficial educational investments for career advancement.
