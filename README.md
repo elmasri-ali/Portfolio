@@ -176,7 +176,7 @@ In this project, I developed a robust machine learning model to predict flight d
 # Contact
 Hey there! 🚀 Always on the lookout for the next exciting challenge and eager to learn something new every day. If you're looking to chat about data, brainstorm cool ideas, or explore how we can work together to make magic happen, don’t be shy—reach out! Let's connect and see where our curiosity takes us.
 
-- **Email**: [<i class="fas fa-envelope"></i> almasri.ali92@gmail.com](mailto:almasri.ali92@gmail.com)
+- **Email**: [<i class="fas fa-envelope"></i> elmasriali24@gmail.com](mailto:elmasriali24@gmail.com)
 - **LinkedIn**: [<i class="fab fa-linkedin"></i> Linkedin](https://www.linkedin.com/in/ali-masri-03347294/)
 - **GitHub**: [<i class="fab fa-github"></i> GitHub Profile](https://github.com/elmasri-ali)
 - **Location**: New york, NY
