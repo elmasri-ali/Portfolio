@@ -36,6 +36,9 @@ So, whether I'm analyzing data, exploring the breathtaking Arctic, chasing the N
   - **Calgary and Banff:** Marveling at the stunning landscapes of the Rockies. ⛰️
 - **Mexico:** Enjoying the rich culture and warm beaches. 🇲🇽
 
+### South America
+Peru: Discovering ancient civilizations and the breathtaking Andes. 🇵🇪
+
 ### Europe & West Asia
 - **Syria:** A journey through history and culture. 🇸🇾
 - **Cyprus:** Relaxing on the beautiful Mediterranean island. 🇨🇾
