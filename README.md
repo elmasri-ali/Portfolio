@@ -49,6 +49,10 @@ Peru: Discovering ancient civilizations and the breathtaking Andes. 🇵🇪
 - **Norway:** Skiing and admiring the breathtaking fjords. 🇳🇴
 - **Ireland:** Soaking in the lush, green landscapes and vibrant culture. 🇮🇪
 - **Poland:** Exploring the rich history and diverse culture. 🇵🇱
+- **Switzerland:** Reveling in alpine beauty and precision culture. 🇨🇭  
+- **Italy:** Savoring world-class cuisine and timeless art. 🇮🇹  
+- **Montenegro:** Unwinding along the Adriatic coast and exploring mountain towns. 🇲🇪  
+- **Croatia:** Sailing the Dalmatian coast and wandering ancient cities. 🇭🇷 
 <img src="ice.jpg" alt="Description of image" width="300"/>
 
 ### Asia
