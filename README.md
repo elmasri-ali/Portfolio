@@ -5,8 +5,8 @@
 ![Ali El Masri](profile.png)
 
 
-# Data-Scientist
-Hey there! 👋 I'm Ali El Masri 😃 a results-driven professional 🧪 with a zest for machine learning and a heart full of adventure!⛷️My journey has been a thrilling ride, much like my love for exploring the Arctic with my wife, where the winter ambiance is simply magical, and skiing through pristine snow is an exhilarating experience.
+# Hey there! 👋
+I'm Ali El Masri 😃 a results-driven professional 🧪 with a zest for machine learning and a heart full of adventure!⛷️My journey has been a thrilling ride, much like my love for exploring the Arctic with my wife, where the winter ambiance is simply magical, and skiing through pristine snow is an exhilarating experience.
  
 My story began with small choices and serendipitous encounters. My first high school summer job as an assistant and sailor at a marina in Lebanon was a gateway to fascinating conversations and diverse friendships that sparked my passion for connecting with people.
 
