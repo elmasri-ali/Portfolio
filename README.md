@@ -175,8 +175,7 @@ This study offers a detailed comparative analysis of hotel reviews for the New Y
 This project delivers an interactive data visualization of *The International 12 (TI12)* — the world championship of *Dota 2*. The dashboard highlights trends in hero popularity and success, team performance, and player contributions, offering insights into how strategy and composition shaped the tournament’s outcomes.  
 
 Using data from **OpenDota** and **UnitStatistics.com**, the visualization reveals that hero popularity doesn’t always align with performance — with *Chaos Knight* achieving a 67.5% win rate despite limited picks, while more common choices like *Pangolier* underperformed.  
-
-The project emphasizes **clarity, interactivity, and storytelling**, turning complex esports statistics into an accessible, engaging exploration of competitive balance and performance at TI12.  
+ 
 
 
 ## Predictive Modeling for Hotel Booking Cancellations
