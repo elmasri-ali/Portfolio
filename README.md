@@ -167,9 +167,15 @@ This project investigates the impact of higher education and professional certif
 This study offers a detailed comparative analysis of hotel reviews for the New York Marriott Marquis and its top five competitors in New York City. By detecting languages, applying topic modeling, conducting sentiment analysis, and visualizing various metrics, we aim to derive actionable insights. The primary goal is to provide recommendations that can ultimately enhance customer satisfaction and maintain a competitive edge. Of importance, this dataset is not a definitive representation of the hotel’s operations but instead an example for educational purposes derived from a limited set of reviews from 2012.
 
 [GitHub Repository](https://github.com/elmasri-ali/Comparative-Analysis-of-Hotel-Reviews.git)
-## Safeguarding the Blue Skies: Airline Safety through Data
+## Inside The Dota 2 International 12: Heroes, Teams & Triumphs  
+**[View the Interactive Dashboard](https://public.tableau.com/views/Dota2TI12SnapShot/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
-This project involves five small data visualization tasks aimed at addressing negative public perception of airline safety due to recent media reports. The tasks include creating an internal dashboard, preparing an executive summary, writing a blog post, designing an infographic, and recording a video presentation. Each task builds on the previous one using data from various sources to analyze and visualize trends and statistics that support the safety of air travel. The dashboard and executive summary are intended for internal review, while the blog post, infographic, and video presentation target external audiences. The project emphasizes effective storytelling, ethical considerations, and appropriate visualization techniques to communicate the airline's message clearly and accurately.
+This project delivers an interactive data visualization of *The International 12 (TI12)* — the world championship of *Dota 2*. The dashboard highlights trends in hero popularity and success, team performance, and player contributions, offering insights into how strategy and composition shaped the tournament’s outcomes.  
+
+Using data from **OpenDota** and **UnitStatistics.com**, the visualization reveals that hero popularity doesn’t always align with performance — with *Chaos Knight* achieving a 67.5% win rate despite limited picks, while more common choices like *Pangolier* underperformed.  
+
+The project emphasizes **clarity, interactivity, and storytelling**, turning complex esports statistics into an accessible, engaging exploration of competitive balance and performance at TI12.  
+
 
 ## Predictive Modeling for Hotel Booking Cancellations
 
