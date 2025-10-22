@@ -72,11 +72,11 @@ Now, let's switch gears from adventures and explorations to my professional jour
 ## Education
 
 **Bellevue University, Bellevue, NE**  
-Master of Science in Data Science (Graduation: September 2024)  
+Master of Science in Data Science 
 Relevant Coursework: Data Exploration and Analysis, Predictive Analytics, Data Mining, Data Presentation and Visualization, Big Data
 
 **American University of Culture and Education, Beirut**
-Bachelor of Arts in Hospitality Management & Administration (Graduated: January 2017)
+Bachelor of Arts in Hospitality Management & Administration 
 
 ## Skills
 
