@@ -167,7 +167,9 @@ This project investigates the impact of higher education and professional certif
 This study offers a detailed comparative analysis of hotel reviews for the New York Marriott Marquis and its top five competitors in New York City. By detecting languages, applying topic modeling, conducting sentiment analysis, and visualizing various metrics, we aim to derive actionable insights. The primary goal is to provide recommendations that can ultimately enhance customer satisfaction and maintain a competitive edge. Of importance, this dataset is not a definitive representation of the hotel’s operations but instead an example for educational purposes derived from a limited set of reviews from 2012.
 
 [GitHub Repository](https://github.com/elmasri-ali/Comparative-Analysis-of-Hotel-Reviews.git)
+
 ## Inside The Dota 2 International 12: Heroes, Teams & Triumphs  
+
 **[View the Interactive Dashboard](https://public.tableau.com/views/Dota2TI12SnapShot/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
 This project delivers an interactive data visualization of *The International 12 (TI12)* — the world championship of *Dota 2*. The dashboard highlights trends in hero popularity and success, team performance, and player contributions, offering insights into how strategy and composition shaped the tournament’s outcomes.  
